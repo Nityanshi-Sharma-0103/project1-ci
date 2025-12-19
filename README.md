@@ -82,30 +82,47 @@ After successful build, Jenkins generates:
 
 ## 📸 Project Screenshots
 
+
+
+## 📸 Project Screenshots
+
 ### Jenkins Setup
-![Jenkins Welcome](screenshots/01-jenkins-welcome.png)
-![Jenkins Installed](screenshots/02-jenkins-installed.png)
-![Admin User](screenshots/03-jenkins-admin-user.png)
-![Users](screenshots/04-jenkins-users.png)
+![Jenkins Welcome](screenshots/jenkins-welcome-screen.png)
+![Jenkins Installed](screenshots/jenkins-installed.png)
+![Jenkins Admin User](screenshots/jenkins-admin.png)
+![Jenkins Users](screenshots/jenkins-users.png)
+
+---
 
 ### Infrastructure
-![GCP Jenkins VM](screenshots/05-gcp-jenkins-vm.png)
-![CI Server](screenshots/06-gcp-ci-server.png)
-![Server Details](screenshots/07-ci-server-details.png)
+![GCP Jenkins VM](screenshots/gcp-jenkins-vm.png)
+![CI Server](screenshots/gcp-ci-server.png)
+![Server Details](screenshots/ci-server-1.png)
+
+---
 
 ### Development
-![Java Code](screenshots/08-java-code-vscode.png)
-![Local Build](screenshots/09-local-java-build.png)
+![Java Code in VS Code](screenshots/vscode-java.png)
+![Local Java Build](screenshots/local-install.png)
+
+---
 
 ### Jenkins CI
-![Build](screenshots/10-jenkins-build.png)
-![Workspace](screenshots/11-jenkins-workspace.png)
-![Target Folder](screenshots/12-jenkins-workspace-target.png)
+![Build](screenshots/build-1.png)
+![Workspace](screenshots/workspace-1.png)
+![Target Folder](screenshots/workspace.png)
+
+---
 
 ### Logs
-![Console Output](screenshots/13-jenkins-console-output.png)
-![Build Success](screenshots/14-jenkins-console-success.png)
+![Console Output](screenshots/console-Op-1.png)
+![Build Success](screenshots/console.png)
+
+---
 
 ### Application Running
-![Spring Boot on Ubuntu](screenshots/15-springboot-running-ubuntu.png)
-![App in Browser](screenshots/16-springboot-running-browser.png)
+![Spring Boot on Ubuntu](screenshots/ubuntu.png)
+![App Running in Browser](screenshots/windows.png)
+
+
+s/16-springboot-running-browser.png)
