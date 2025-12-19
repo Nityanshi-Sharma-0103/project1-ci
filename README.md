@@ -78,3 +78,34 @@ project1-ci/
 
 After successful build, Jenkins generates:
 
+
+
+## 📸 Project Screenshots
+
+### Jenkins Setup
+![Jenkins Welcome](screenshots/01-jenkins-welcome.png)
+![Jenkins Installed](screenshots/02-jenkins-installed.png)
+![Admin User](screenshots/03-jenkins-admin-user.png)
+![Users](screenshots/04-jenkins-users.png)
+
+### Infrastructure
+![GCP Jenkins VM](screenshots/05-gcp-jenkins-vm.png)
+![CI Server](screenshots/06-gcp-ci-server.png)
+![Server Details](screenshots/07-ci-server-details.png)
+
+### Development
+![Java Code](screenshots/08-java-code-vscode.png)
+![Local Build](screenshots/09-local-java-build.png)
+
+### Jenkins CI
+![Build](screenshots/10-jenkins-build.png)
+![Workspace](screenshots/11-jenkins-workspace.png)
+![Target Folder](screenshots/12-jenkins-workspace-target.png)
+
+### Logs
+![Console Output](screenshots/13-jenkins-console-output.png)
+![Build Success](screenshots/14-jenkins-console-success.png)
+
+### Application Running
+![Spring Boot on Ubuntu](screenshots/15-springboot-running-ubuntu.png)
+![App in Browser](screenshots/16-springboot-running-browser.png)
